@@ -1,6 +1,6 @@
 # concat-files
 
-[![Build Status](https://travis-ci.org/vvo/concat-files.png)](https://travis-ci.org/vvo/concat-files])
+[![Build Status](https://travis-ci.org/vvo/concat-files.png)](https://travis-ci.org/vvo/concat-files)
 
 ## example
 
