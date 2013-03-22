@@ -1,0 +1,21 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/vvo/Programs/nvm/v0.10.1/bin/node',
+1 verbose cli   '/home/vvo/Programs/nvm/v0.10.1/bin/npm',
+1 verbose cli   'test' ]
+2 info using npm@1.2.15
+3 info using node@v0.10.1
+4 verbose read json /home/vvo/Dropbox/Dev/concat-files/bench/package.json
+5 error Error: ENOENT, open '/home/vvo/Dropbox/Dev/concat-files/bench/package.json'
+6 error If you need help, you may report this log at:
+6 error     <http://github.com/isaacs/npm/issues>
+6 error or email it to:
+6 error     <npm-@googlegroups.com>
+7 error System Linux 3.5.0-26-generic
+8 error command "/home/vvo/Programs/nvm/v0.10.1/bin/node" "/home/vvo/Programs/nvm/v0.10.1/bin/npm" "test"
+9 error cwd /home/vvo/Dropbox/Dev/concat-files/bench
+10 error node -v v0.10.1
+11 error npm -v 1.2.15
+12 error path /home/vvo/Dropbox/Dev/concat-files/bench/package.json
+13 error code ENOENT
+14 error errno 34
+15 verbose exit [ 34, true ]

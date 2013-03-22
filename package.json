@@ -1,0 +1,20 @@
+{
+  "name": "concat-files",
+  "version": "0.0.0",
+  "description": "Concatenate files asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test -R spec -C"
+  },
+  "repository": "git@github.com:vvo/concat-files.git",
+  "author": "Vincent Voyer <vincent@zeroload.net>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.6"
+  },
+  "devDependencies": {
+    "temp": "~0.5.0",
+    "bench": "~0.3.5",
+    "mocha": "~1.8.2"
+  }
+}
