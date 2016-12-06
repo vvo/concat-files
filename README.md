@@ -11,7 +11,8 @@
     '/my/first/file',
     '/another/file',
     '/one/last/file'
-  ], '/to/destination', function() {
+  ], '/to/destination', function(err) {
+    if (err) throw err
     console.log('done');
   });
 ```
