@@ -1,3 +1,5 @@
+**This project is X years old, there must be better ways to concatenate files with Node.js nowadays**
+
 # concat-files
 
 [![Build Status](https://travis-ci.org/vvo/concat-files.png)](https://travis-ci.org/vvo/concat-files)
